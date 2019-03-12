@@ -213,3 +213,63 @@ INSERT INTO ESTACIONAMENTO.ESTACIONAMENTOS (
   4.25,
   'Nenhuma observação.'
 );
+
+-- Recibo 01
+INSERT INTO ESTACIONAMENTO.RECIBOS (
+  Codigo,
+  CPF,
+  Placa,
+  DataPagamento,
+  ValorPago
+) VALUES (
+  1,
+  '55342159334',
+  'ABC-1234',
+  20180618,
+  8.5
+);
+
+-- Recibo 02
+INSERT INTO ESTACIONAMENTO.RECIBOS (
+  Codigo,
+  CPF,
+  Placa,
+  DataPagamento,
+  ValorPago
+) VALUES (
+  2,
+  '97009888302',
+  'CDE-5678',
+  20190114,
+  8.5
+);
+
+-- Recibo 03
+INSERT INTO ESTACIONAMENTO.RECIBOS (
+  Codigo,
+  CPF,
+  Placa,
+  DataPagamento,
+  ValorPago
+) VALUES (
+  3,
+  '47805610193',
+  'CBA-4312',
+  20190204,
+  8.5
+);
+
+-- Recibo 04
+INSERT INTO ESTACIONAMENTO.RECIBOS (
+  Codigo,
+  CPF,
+  Placa,
+  DataPagamento,
+  ValorPago
+) VALUES (
+  4,
+  '34584638101',
+  'EDC-8765',
+  20170421,
+  8.5
+);
