@@ -1,5 +1,6 @@
+# Exercícios - 01
 
-# Estacionamento
+## Estacionamento
 
 Uma empresa de gerenciamento de estacionamentos contratou você para a criação de um sistema de controle.
 
@@ -11,7 +12,7 @@ Uma empresa de gerenciamento de estacionamentos contratou você para a criação
 * 4 Registros de estacionamento
 * 2 Recibos
 
-## Clientes
+### Clientes
 
 | Campo | Descrição | Tamanho | Obrigatório | Chave primária |
 |--|--|--|--|--|
@@ -21,7 +22,7 @@ Uma empresa de gerenciamento de estacionamentos contratou você para a criação
 | E-mail | E-mail da pessoa | 40 | N | N |
 | Data de inclusão | Data e hora em que a pessoa virou cliente/foi cadastrada | - | S | N |
 
-## Veículo
+### Veículo
 
 | Campo | Descrição | Tamanho | Obrigatório | Chave primária |
 |--|--|--|--|--|
@@ -29,14 +30,14 @@ Uma empresa de gerenciamento de estacionamentos contratou você para a criação
 | Modelo | Modelo do veículo | 40 | S | N |
 | Marca | Marca do veículo | 10 | S | N |
 
-## Marca
+### Marca
 
 | Campo | Descrição | Tamanho | Obrigatório | Chave primária |
 |--|--|--|--|--|
 | Código | Código da marca | 10 | S | S |
 | Nome | Nome da marca | 40 | S | N |
 
-## Estacionamentos
+### Estacionamentos
 
 | Campo | Descrição | Tamanho | Obrigatório | Chave primária |
 |--|--|--|--|--|
@@ -48,7 +49,7 @@ Uma empresa de gerenciamento de estacionamentos contratou você para a criação
 | Valor hora | Valor cobrado por hora | 5,2 | S | N |
 | Observação | Possível observação anotada pelo porteiro | 5000 | N | N |
 
-## Recibos
+### Recibos
 
 | Campo | Descrição | Tamanho | Obrigatório | Chave primária |
 |--|--|--|--|--|
