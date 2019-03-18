@@ -4,5 +4,5 @@ Repositório referente a matéria de Banco de Dados II ministrada pelo professor
 
 ## Conteúdos
 
-* [Exercícios - 01](https://github.com/castilh0s/desenvolvimento-dispositivos-moveis/tree/master/Lista%20de%20Exerc%C3%ADcios%20-%2001)
-* [Exercícios - 02](https://github.com/castilh0s/desenvolvimento-dispositivos-moveis/tree/master/Lista%20de%20Exerc%C3%ADcios%20-%2002)
+* [Exercícios - 01](https://github.com/castilh0s/banco-dados-2/tree/master/Exerc%C3%ADcio%2001)
+* [Exercícios - 02](https://github.com/castilh0s/banco-dados-2/tree/master/Exerc%C3%ADcio%2002)
